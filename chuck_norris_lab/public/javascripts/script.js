@@ -19,7 +19,7 @@ $('#getJoke').click(function(e){
 
 });
 
-
+/*
  window.fbAsyncInit = function() {
    FB.init({
      appId      : '1702852756650468',
@@ -34,8 +34,8 @@ $('#getJoke').click(function(e){
     js = d.createElement(s); js.id = id;
     js.src = "//connect.facebook.net/en_US/sdk.js";
     fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-</script>
+  }(document, 'script', 'facebook-jssdk'));*/
+
 
 
 
