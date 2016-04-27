@@ -6,3 +6,24 @@ body {
 a {
   color: #00B7FF;
 }
+
+#jokeDiv{
+  width: 100%;
+  background-color: salmon;
+  color: black;
+  font-size: 36px;
+  text-align: center;
+}
+
+.buttonDiv{
+  width: 50%;
+  color: grey;
+  padding: 10px;
+  margin: 10px;
+
+}
+
+#getJoke{
+  background-color: mediumTurquoise;
+  font-size: 24px;
+}
